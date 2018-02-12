@@ -1,5 +1,7 @@
 # glen-site
 
+Development build in progress
+
 > A Vue.js project
 
 ## Build Setup
