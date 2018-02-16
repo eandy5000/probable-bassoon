@@ -1,6 +1,6 @@
 # glen-site
 
-> A Vue.js project
+> A Vue.js project - created by Andy and Colin
 
 ## Build Setup
 
